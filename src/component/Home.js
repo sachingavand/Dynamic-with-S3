@@ -6,7 +6,6 @@ const url = "http://10.0.14.207:8443/restaurant";
 
 class Home extends Component{
     constructor(){
-        
         super()
 
         this.state={
